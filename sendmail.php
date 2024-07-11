@@ -26,5 +26,5 @@ if (! empty($_POST["send"])) {
         }
     }
 }
-require_once "index.php";
+require_once "index.html";
 ?>
