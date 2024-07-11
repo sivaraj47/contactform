@@ -11,7 +11,7 @@ if (! empty($_POST["send"])) {
     $subject = $_POST["subject"];
     $content = $_POST["content"];
 
-    $toEmail = "admin@phppot_samples.com";
+    $toEmail = "codingwithssr@gmail.com";
     // CRLF Injection attack protection
     $name = strip_crlf($name);
     $email = strip_crlf($email);
